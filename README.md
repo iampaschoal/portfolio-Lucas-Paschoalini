@@ -21,3 +21,6 @@ Site estático em HTML, CSS e JavaScript, sem etapa de compilação.
 Altere os textos e contatos diretamente no `index.html`. Para substituir a foto ou o currículo, mantenha os nomes dos arquivos acima ou atualize os links no HTML.
 
 Os dados profissionais e contatos foram extraídos do currículo fornecido. O GitHub foi informado pelo solicitante. O projeto de startup é descrito sem nome comercial ou link de repositório, pois esses dados não constam no currículo. Não foram criadas experiências, métricas ou datas adicionais. As fontes Google são opcionais: o site usa fontes locais de reserva quando estiver offline. Não há formulário ou backend; os contatos abrem os serviços correspondentes.
+
+## Atualização visual — versão minimalista
+Tema claro por padrão, branco, cinza e azul profundo. Para atualizar o site publicado, envie os arquivos desta pasta ao mesmo repositório, substitua os existentes e confirme em Commit changes. A publicação do Pages será atualizada automaticamente. O tema escuro opcional usa uma preferência nova para não herdar o visual antigo.
