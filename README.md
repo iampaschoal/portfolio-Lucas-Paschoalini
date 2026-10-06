@@ -24,3 +24,6 @@ Os dados profissionais e contatos foram extraídos do currículo fornecido. O Gi
 
 ## Atualização visual — versão minimalista
 Tema claro por padrão, branco, cinza e azul profundo. Para atualizar o site publicado, envie os arquivos desta pasta ao mesmo repositório, substitua os existentes e confirme em Commit changes. A publicação do Pages será atualizada automaticamente. O tema escuro opcional usa uma preferência nova para não herdar o visual antigo.
+
+## Versão azul e branco
+Tipografia sem serifa com espaçamento natural, competências em cartões sobre azul profundo e projeto em destaque com responsabilidades em painel azul. Os arquivos de estilo e interação usam versão no endereço para reduzir problemas de cache ao atualizar.
